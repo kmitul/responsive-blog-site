@@ -1,0 +1,25 @@
+.techfont{
+  font-family: 'Montserrat', san-serif;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.centerstage{
+  margin:auto;
+}
+
+.welcome-user{
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+}
+
+.myicon{
+  padding: 10px;
+  margin: auto;
+  margin-left: 100px;
+}
